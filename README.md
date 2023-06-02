@@ -5,6 +5,39 @@
 
 Dedicado en cuerpo y alma a la seguridad informática, sobre todo a la parte ofensiva, aprendiendo un poco más cada día y dándome cuenta de lo poco que se a cada paso que avanzo, y espero que sea así siempre.
 
+```
+_______________________________________
+/       Bienvenido al infierno.        \
+| Prepárate para defender tu sistema.   |
+|       Nosotros no perdonamos.         |
+|                                       |
+| "La mejor defensa es un buen ataque"  |
+|                                       |
+|                                       |
+| Por tu seguridad estoy monitorizando  |
+|toda tu actividad, pero no te preocupes|
+\             ¡Diviértete!              /
+ ---------------------------------------
+   \         ,        ,
+    \       /(        )`
+     \      \ \___   / |
+            /- _  `-/  '
+           (/\/ \ \   /\
+           / /   | `    \
+           O O   ) /    |
+           `-^--'`<     '
+          (_.)  _  )   /
+           `.___/`    /
+             `-----' /
+<----.     __ / __   \
+<----|====O)))==) \) /====
+<----'    `--' `.__,' \
+             |        |
+              \       /
+        ______( (_  / \______
+      ,'  ,-----'   |        \
+      `--{__________)        \/
+```
 ## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Barricada_digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@barricadadigital)
