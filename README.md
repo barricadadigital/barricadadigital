@@ -7,11 +7,11 @@ Dedicado en cuerpo y alma a la seguridad informática, sobre todo a la parte ofe
 
 ## Encuéntrame en:
 
-![YouTube](https://img.shields.io/badge/YouTube-Barricada_digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)(https://youtube.com/@barricadadigital)
+[![YouTube](https://img.shields.io/badge/YouTube-Barricada_digital-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)(https://youtube.com/@barricadadigital)]
 </br>
-![Twitter](https://img.shields.io/badge/Twitter-@BarricadaD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)(https://twitter.com/BarricadaD)
+[![Twitter](https://img.shields.io/badge/Twitter-@BarricadaD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)(https://twitter.com/BarricadaD)]
 </br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gonzalez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)(https://www.linkedin.com/in/miguel-gonzález-lara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gonzalez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)(https://www.linkedin.com/in/miguel-gonzález-lara)]
 </br>
 
 ## Algunos vídeos en YouTube:
